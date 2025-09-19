@@ -31,25 +31,25 @@ export default function AboutPage() {
 
   const team = [
     {
-      name: "Tarcio Silva",
+      name: "Tarcio Teles",
       role: "CEO & Desenvolvedor Full-Stack",
       description:
         "Especialista em desenvolvimento web com mais de 5 anos de experiência criando soluções digitais para profissionais liberais.",
-      image: "/placeholder.svg?key=team1",
+      image: "/Retrato Aprimorado.png",
       skills: ["React", "Next.js", "Node.js", "UX/UI Design"],
     },
     {
       name: "Ana Costa",
       role: "Designer UX/UI",
       description: "Focada em criar experiências digitais intuitivas e atrativas que convertem visitantes em clientes.",
-      image: "/placeholder.svg?key=team2",
+      image: "/Ícone Desenvolvedora Mulher.png",
       skills: ["Figma", "Adobe Creative", "Prototipagem", "Design System"],
     },
     {
       name: "Carlos Tech",
       role: "Especialista em SEO",
       description: "Responsável por otimizar sites para mecanismos de busca, garantindo maior visibilidade online.",
-      image: "/placeholder.svg?key=team3",
+      image: "/Ícone Desenvolvedor Homem.png",
       skills: ["SEO", "Google Analytics", "Marketing Digital", "Análise de Dados"],
     },
   ]

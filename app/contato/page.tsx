@@ -418,7 +418,7 @@ export default function ContactPage() {
                     <Mail className="h-4 w-4" />
                   </div>
                   <div>
-                    <p className="font-medium">tarcioapps7@gmail.com</p>
+                    <p className="font-medium">comercial@t2casadosite.com.br</p>
                     <p className="text-sm text-muted-foreground">E-mail comercial</p>
                   </div>
                 </div>

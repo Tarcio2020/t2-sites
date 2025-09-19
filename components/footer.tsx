@@ -70,7 +70,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span className="text-primary-foreground/80">tarcioapps7@gmail.com</span>
+                <span className="text-primary-foreground/80">comercial@t2casadosite.com.br</span>
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
