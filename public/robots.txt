@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://t2casadosite.com.br
+
+# Sitemaps
+Sitemap: https://t2casadosite.com.br/sitemap.xml
