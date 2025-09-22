@@ -23,7 +23,7 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           <Link href="/" className="flex items-center space-x-3">
             <div className="relative">
-              <Image src="/T2_Logo_New_Colors_Option3.jpg" alt="T2 Casa do Site" width={40} height={40} className="rounded-lg" />
+              <Image src="/T2_Casa_do_Site_Logo_1200x6301.png" alt="T2 Casa do Site" width={40} height={40} className="rounded-lg" />
             </div>
             <div>
               <span className="text-sm text-muted-foreground ml-1">Casa do Site</span>
