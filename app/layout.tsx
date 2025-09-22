@@ -6,9 +6,8 @@ import { Analytics } from "@vercel/analytics/next"
 import { Suspense } from "react"
 import "./globals.css"
 
-// Altere esta URL para o caminho da sua imagem logo
 const SITE_URL = "https://www.t2casadosite.com.br"
-const LOGO_IMAGE = `${SITE_URL}/T2_Social_Media_Banner1200x630.jpg` 
+const LOGO_IMAGE = `${SITE_URL}/public/T2_Social_Media_Banner1200x630.png`
 
 export const metadata: Metadata = {
   title: "T2 Casa do Site - Desenvolvimento Web Profissional",
@@ -32,13 +31,15 @@ export const metadata: Metadata = {
     ],
   },
 
+/*
   twitter: {
     card: "summary_large_image",
-    site: "@t2casadosite", // Altere para seu @ do Twitter
+    site: "@t2casadosite",
     title: "T2 Casa do Site - Desenvolvimento Web Profissional",
     description: "Soluções digitais práticas e personalizadas para profissionais liberais",
     images: [LOGO_IMAGE],
   },
+*/
 
   robots: {
     index: true,
